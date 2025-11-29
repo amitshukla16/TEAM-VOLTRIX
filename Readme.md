@@ -86,6 +86,8 @@ Backend on Render with MongoDB Atlas.
 
 Proper CORS + secure cookies configured for cross-domain apps.
 
+follow the given link to see deployment :  https://finance-tracker-smoky-seven.vercel.app/
+
 🐛 Troubleshooting
 
 Check MongoDB URL
